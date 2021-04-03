@@ -1,6 +1,6 @@
 import { Avatar, Button, IconButton } from '@material-ui/core';
 import styled from 'styled-components';
-import ChatIcon from '@material-ui/icons/chat';
+import ChatIcon from '@material-ui/icons/Chat';
 import MoreVertIcon from '@material-ui/icons/MoreVert';
 import SearchIcon from '@material-ui/icons/Search';
 import * as EmailValidator from 'email-validator';
